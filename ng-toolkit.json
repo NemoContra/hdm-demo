@@ -1,0 +1,8 @@
+{
+  "pwa": {
+    "clientProject": "hdm-demo",
+    "skipInstall": false,
+    "directory": ".",
+    "project": "hdm-demo"
+  }
+}
